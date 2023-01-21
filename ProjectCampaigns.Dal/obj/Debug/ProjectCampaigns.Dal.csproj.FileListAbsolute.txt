@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\bin\Debug\ProjectCampaigns.Dal.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\bin\Debug\ProjectCampaigns.Dal.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\obj\Debug\ProjectCampaigns.Dal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\obj\Debug\ProjectCampaigns.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\obj\Debug\ProjectCampaigns.Dal.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\obj\Debug\ProjectCampaigns.Dal.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\bin\Debug\ProjectCampaigns.Model.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\bin\Debug\ProjectCampaigns.Model.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Dal\obj\Debug\ProjectCampaigns.Dal.csproj.CopyComplete
